@@ -6,6 +6,12 @@ A modern, interactive sales analytics dashboard built with Python, Dash, and Plo
 
 ---
 
+## 🚀 Live Demo
+
+**You can view the live deployed dashboard here:** [https://blinkit-sales-dashboard.onrender.com](https://blinkit-sales-dashboard.onrender.com)
+
+---
+
 ## 🚀 Features
 
 - **Interactive Filtering:**  
