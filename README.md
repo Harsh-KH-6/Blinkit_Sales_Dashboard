@@ -66,12 +66,6 @@ The dashboard uses the `Blinkit_Sales.xlsx` dataset, which includes (but is not 
 
 ---
 
-## 🖥️ Screenshots
-
-> _Add screenshots here to showcase the dashboard UI and visualizations._
-
----
-
 ## 🧑‍💻 Skills Demonstrated
 
 - **Prompt Engineering:**  
