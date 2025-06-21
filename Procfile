@@ -1,0 +1,1 @@
+web: gunicorn blinkit_dashboard:app.server 
